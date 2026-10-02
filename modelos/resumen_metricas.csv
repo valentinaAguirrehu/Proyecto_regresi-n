@@ -1,0 +1,4 @@
+Ejercicio,MSE,RMSE,R2,Variable_mayor_impacto
+Dólar,2376.9709,48.7542,0.9963,Dia
+Glucosa,233.693,15.287,0.6814,Edad
+Energía,429.5187,20.7248,0.8968,Temperatura
